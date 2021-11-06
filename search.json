@@ -9,62 +9,146 @@
 ,
 "pr-c3-a9sentation-formation-html": {
       "title": "Présentation de la formation",
-      "content"	 : "Présentation de la formation",
+      "content"	 : "Présentation de la formationTravail collaborative avec git et github.com",
       "url": "/git-github/pr%C3%A9sentation-formation.html",
       "author": "",
       "categories": "introduction"
     },
 "pr-c3-a9sentation-formation-html#cest-quoi-git-et-github": {
-      "title": "C’est quoi git et Github  (Présentation de la formation)",
-      "content"	 : "C’est quoi git et GithubGit est un outil qui vous permet de sauvegarder les modifications de votre projet afin de revenir en arrière à tout moment.Il vous permet de travailler en groupe de façon collaboratif sur un projet en utilisant le service github.com",
+      "title": "C’est quoi git et GitHub  (Présentation de la formation)",
+      "content"	 : "C’est quoi git et GitHubTous d’abord je commence par une petite définition sans entrer dans les détails. C’est quoi git et GitHub ?Git est un outil qui vous permet de sauvegarder les modifications de votre projet afin de revenir en arrière à tout moment.Dans cette formation, je vais vous montrer comment utiliser git et GitHub pour gérer l’historique des modifications de code source de vos projet.",
       "url": "/git-github/pr%C3%A9sentation-formation.html#cest-quoi-git-et-github",
       "author": "",
       "categories": "introduction"
     },
 "pr-c3-a9sentation-formation-html#apprentissage-de-de-4-scénarios-de-travail-avec-git": {
       "title": "Apprentissage de de 4 scénarios de travail avec git  (Présentation de la formation)",
-      "content"	 : "Apprentissage de de 4 scénarios de travail avec gitJe vais traiter avec vous quatre exemples ou cas d’utilisation qui résoudre quatre problème :Exemple 1 – gestion de version dans la machine localExemple 2 – gestion de version avec enregistrement de l’historique des versions dans un support externe ou une machine distante.Exemple 3 – travaillé sur de façon collaborative avec un ami ou un groupe de travail en utilisant un répertoire partagé (dépôt git distant) en utilisant le service GitHub.comExemple 4 – travaillé de façon collaborative avec des inconnues sur un projet open source avec un système de",
+      "content"	 : "Apprentissage de de 4 scénarios de travail avec gitDans cette formation, je vais vous montrer comment utiliser git et GitHub en utilisant 4 scénariosScénario 1 – gestion des modifications et les versions dans la machine localDans le premier scénario je vais vous montrer comment gérer les modifications et les organiser en version en utilisant la machine local.Je vous donne l’exemple du stagiaire Madani Ali qui va réaliser un article sur l’informatique. il a utilisé l’outil git dans la machine local et il a développé trois version de son article :  version 1;  version 2;  et version 3.Scénario 2 – gestion des modifications et les versions dans la machine local et distante.Dans le deuxième scénario je vais vous montrer comment Madani Ali peut utiliser la machine distante en utilisant le service github.com qui leur propose de créer des répertoires git privés.C’est à dire il peut publier ces propre version local vers la machine distante. il peut décider de publier par exemple la version 1 et la version 2 et garder la version 3 en version local.Scénario 3 – travaille de façon collaborative en utilisant le service GitHub.comDans le troisième scénario, je vais vous montrer comment Madani Ali peut travailler de façon collaborative avec Chami Fatima en utilisant le service GitHub.Tous d’abord, Fatima va installer git dans sa machine local. Ensuite, il va demander à Madani Ali de leur donner les droits d’accès pour accéder à son répertoire privé sur github.com.Ensuit, il va copier le répertoire dans sa machine local de façon sécurisé.Scénario 4 – travaille de façon open source en utilisant le service Github.comDans le quatrième scénario, je vais vous montrer comment Fatima peut aider Madani de façon public et de façon open source, c’est à dire sans que Madani Ali donne les droits d’accès à Fatima.Dans ce cas, Fatima va commencer la modification du projet de Madani dans sa machine local. Ensuite, il va envoyer une demande de modification à Madani Ali.",
       "url": "/git-github/pr%C3%A9sentation-formation.html#apprentissage-de-de-4-scénarios-de-travail-avec-git",
       "author": "",
       "categories": "introduction"
     },
 "pr-c3-a9sentation-formation-html#apprentissage-en-ligne-de-commande-et-gui": {
       "title": "Apprentissage en ligne de commande et GUI  (Présentation de la formation)",
-      "content"	 : "Apprentissage en ligne de commande et GUIPendant la formation je vais vous montrer comment utiliser git de deux façon :  En utilisant la ligne de commande avec PowerShell;  en utilisant l’interface graphique avec l’application Github Desktop.",
+      "content"	 : "Apprentissage en ligne de commande et GUIPendant la formation, je vais vous montrer comment utiliser git de deux façons. Tous d’abord en utilisant la ligne de commande avec PowerShell et l’interface graphique avec l’application GitHub Desktop",
       "url": "/git-github/pr%C3%A9sentation-formation.html#apprentissage-en-ligne-de-commande-et-gui",
       "author": "",
       "categories": "introduction"
     }
 ,
-"introduction-html": {
-      "title": "Notions préliminaires - Web et Internet",
-      "content"	 : "Introduction et problématique",
-      "url": "/git-github/introduction.html",
+"pr-c3-a9sentation-formateur-html": {
+      "title": "Présentation du formateur",
+      "content"	 : "Présentation du formateur",
+      "url": "/git-github/pr%C3%A9sentation-formateur.html",
       "author": "",
-      "categories": "problématique"
-    }
-,
-"r-c3-a9sum-c3-a9-html": {
-      "title": "Résumé",
-      "content"	 : "Résumé : Partie 1",
-      "url": "/git-github/r%C3%A9sum%C3%A9.html",
-      "author": "",
-      "categories": "problématique"
-    }
-,
-"chapitre1-html": {
-      "title": "Chapitre 1",
-      "content"	 : "Chapitre 1Chapitre 1",
-      "url": "/git-github/chapitre1.html",
-      "author": "",
-      "categories": "problématique"
+      "categories": "introduction"
     },
-"chapitre1-html#extrait-de-la-formation-vidéo": {
-      "title": "Extrait de la formation vidéo  (Chapitre 1)",
-      "content"	 : "Extrait de la formation vidéo",
-      "url": "/git-github/chapitre1.html#extrait-de-la-formation-vidéo",
+"pr-c3-a9sentation-formateur-html#googler-sur-essarraj-fouad": {
+      "title": "Googler sur ESSARRAJ Fouad  (Présentation du formateur)",
+      "content"	 : "Googler sur ESSARRAJ FouadJe m’appelle ES-SARRAJ Fouad, je suis formateur et ingénieur informatique avec 10 ans d’expérience en formation et programmation.Pour plus d’information sur moi, vous pouvez recherche sur google, vous trouveriez mon site web, ma chaîne YouTube et mes formations sur Udemy.  Ma chaîne YouTube   Mes formations sur Udemy   Mon site web",
+      "url": "/git-github/pr%C3%A9sentation-formateur.html#googler-sur-essarraj-fouad",
       "author": "",
-      "categories": "problématique"
+      "categories": "introduction"
+    }
+,
+"gestion-de-version-html": {
+      "title": "Gestion de version",
+      "content"	 : "Gestion de version",
+      "url": "/git-github/gestion-de-version.html",
+      "author": "",
+      "categories": "gestion-version-git"
+    },
+"gestion-de-version-html#cest-quoi-une-gestion-de-version": {
+      "title": "C’est quoi une gestion de version  (Gestion de version)",
+      "content"	 : "C’est quoi une gestion de versionC’est un système qui enregistre l’historique des modifications d’un fichier ou d’un ensemble des fichiers au cours du tempsde manière à ce qu’on puisse revenir à une version antérieure d’un fichier à tout moment.",
+      "url": "/git-github/gestion-de-version.html#cest-quoi-une-gestion-de-version",
+      "author": "",
+      "categories": "gestion-version-git"
+    },
+"gestion-de-version-html#situation-de-travail-et-problèmes": {
+      "title": "Situation de travail et problèmes  (Gestion de version)",
+      "content"	 : "Situation de travail et problèmesPour vous expliquer la problématique de gestion de version, nous considérons la situation de travail suivante :Madani Ali veut rédiger un article sur l’informatique en collabortion avec Chami Fatima.Pendant cette situation de travail Madani Ali a vécu trois problèmes que nous allons découvrir dans cette session de formation.",
+      "url": "/git-github/gestion-de-version.html#situation-de-travail-et-problèmes",
+      "author": "",
+      "categories": "gestion-version-git"
+    },
+"gestion-de-version-html#problème-1--gestion-dhistorique-des-modifications": {
+      "title": "Problème 1 – gestion d’historique des modifications  (Gestion de version)",
+      "content"	 : "Problème 1 – gestion d’historique des modificationsAu début du travail, Madani ali a crée un répertoire nommé « Article –version initial ».Il a décider de rédiger chaque partie de son article dans un fichier indépendante pour faciliter la gestion de traçabilité de ses modification.Il a créé un fichier texte nommé 1.définition v1.txt pour rédiger la partie 1.définition de l’informatique.Après la rédaction et la modification de son définition, il a décidé de changer carrément la définition tout en gardant la possibilité de revenir en arrière.Pour réaliser ça, il a créé un copie de son fichier « Définition v1 », et il a continué de rédiger dans le fichier actuel.Ensuite, il a répété ce scenario plusieurs fois quand ’il a voulu garder la version antérieur de son travail.À un moment donnée,Madani Ali avait plusieurs définition enregistrer dans plusieurs fichiers, Aussi, il a répéter ce mécanisme pour la rédaction des autres parties de son article.La question qui se pose ici, est ce que Madani Ali peut facilement revenir en arrière à une modification ou une partie rédigé précédemment ?Pour faire ça il doit garder l’ensemble de ces fichier et chercher et lire manuellement dans tous les fichiers pour trouver la version qu’il veut récupérer.Imaginer le problème si Madani Ali a plus de 10 parties de son projet de rédaction, c’est-à-dire il doit gérer et chercher dans plus de 100 fichier texte.Imaginer le problème si Madani Ali n’a pas décider de travailler avec les fichiers et il a travaillé avec un seul fichier qui contient plusieurs partie.",
+      "url": "/git-github/gestion-de-version.html#problème-1--gestion-dhistorique-des-modifications",
+      "author": "",
+      "categories": "gestion-version-git"
+    },
+"gestion-de-version-html#problème-2--fusion-de-travail-avec-plusieurs-versions": {
+      "title": "Problème 2 – fusion de travail avec plusieurs versions  (Gestion de version)",
+      "content"	 : "Problème 2 – fusion de travail avec plusieurs versionsAprès deux semaine de repos, Madani Ali, a voulu de continuer son travail mais sans impacter le travail précédent.Il a décidé de créer un autre répertoire nommé « Article – rédaction informatique moderne » pour rédiger la partie « Informatique moderne »Mais, pendant la rédaction il a changé aussi la partie définition et la partie histoire,Ensuite à moment donnée, il a créé un troisième répertoire pour ajouter la partie « Développement des applications ».La question ici, combien de temps pour fusionner les travaux réalisés dans les deux répertoire, dans le répertoire initial , sans risque de perte de données en remplaçant les versions récentes par des enceins versions.",
+      "url": "/git-github/gestion-de-version.html#problème-2--fusion-de-travail-avec-plusieurs-versions",
+      "author": "",
+      "categories": "gestion-version-git"
+    },
+"gestion-de-version-html#problème-3--travail-collaborative-et-fusion": {
+      "title": "Problème 3 – Travail collaborative et fusion  (Gestion de version)",
+      "content"	 : "Problème 3 – Travail collaborative et fusionMaintenant, si Madani Ali est capable de gérer tous ces fichiers de façon manuel,  et il a le temps et l’énergie de faire ce travail pébible,Quand’il veut travailler avec fatima en partagent son répertoire avec lui via un serveur de partage des fichiers, cependant on aura trois version de projetVersion local chez madani aliVersion local chez chami fatima Et version dans le serveur.La question ici, comment travailler ensemble sans perte de données avec la résolution du problème de conflit s’il ont modifié par accident le même contenue.",
+      "url": "/git-github/gestion-de-version.html#problème-3--travail-collaborative-et-fusion",
+      "author": "",
+      "categories": "gestion-version-git"
+    },
+"gestion-de-version-html#travail-de-gestion-de-version": {
+      "title": "Travail de gestion de version  (Gestion de version)",
+      "content"	 : "Travail de gestion de versionUne application de gestion de version va nous aider à gérer les problématiques des situations que nous avons déjà discuté, tout en répandant à quatre questions :  Quand ? Quand est-ce que le fichier a été modifié ?  Quoi ? Qu’est-ce qui a changé dans le fichier ?  Pourquoi ? Pourquoi le fichier a-t-il été modifié ?  Qui ?Par qui a été modifié le fichier ?",
+      "url": "/git-github/gestion-de-version.html#travail-de-gestion-de-version",
+      "author": "",
+      "categories": "gestion-version-git"
+    },
+"gestion-de-version-html#les-systèmes-de-gestion-de-version-locaux": {
+      "title": "Les systèmes de gestion de version locaux  (Gestion de version)",
+      "content"	 : "Les systèmes de gestion de version locauxDans les applications de gestion de version il y a trois façons d’enregistrer l’historique des modifications.La première façon et la gestion de version local.C’est-à-dire tous les enregistrements des versions ou des modifications sont enregistrer dans un répertoire ou une base de données local.",
+      "url": "/git-github/gestion-de-version.html#les-systèmes-de-gestion-de-version-locaux",
+      "author": "",
+      "categories": "gestion-version-git"
+    },
+"gestion-de-version-html#les-systèmes-de-gestion-de-version-centralisés": {
+      "title": "Les systèmes de gestion de version centralisés  (Gestion de version)",
+      "content"	 : "Les systèmes de gestion de version centralisésLa deuxième façon est d’enregistrer les modifications et les versions dans un serveur partagé entre les utilisateurs.C’est-à-dire que tous l’historique des modifications sont enregistrés dans le serveur et l’enregistrement de travail nécessite le fonctionnement de serveur et la présence d’un réseaux fonctionnelle.",
+      "url": "/git-github/gestion-de-version.html#les-systèmes-de-gestion-de-version-centralisés",
+      "author": "",
+      "categories": "gestion-version-git"
+    },
+"gestion-de-version-html#les-systèmes-de-gestion-de-version-distribués": {
+      "title": "Les systèmes de gestion de version distribués  (Gestion de version)",
+      "content"	 : "Les systèmes de gestion de version distribuésLa troisième façon de gérer les modifications et la gestion distribuéC’est à dire  chaque utilisateur garde la totalité de l’historique des modifications dans son machine local, et tous les traitements de gestion de version s’effectuent localement. et quant le serveur est disponible, l’utilisateur peut fusionner ses modifications déjà effectués dans le serveur. C’est la stratégie de gestion des version utilisé par git.",
+      "url": "/git-github/gestion-de-version.html#les-systèmes-de-gestion-de-version-distribués",
+      "author": "",
+      "categories": "gestion-version-git"
+    }
+,
+"git-html": {
+      "title": "Git",
+      "content"	 : "Gestion de version gitGit est un système de contrôle de version open source gratuit, créé par Linus Torvalds, en 2005.Contrairement aux anciens systèmes de contrôle de version centralisés (comme SVN)",
+      "url": "/git-github/git.html",
+      "author": "",
+      "categories": "gestion-version-git"
+    },
+"git-html#notions-fondamentales-de-git": {
+      "title": "Notions fondamentales de Git  (Git)",
+      "content"	 : "Notions fondamentales de GitGit est distribué : chaque développeur dispose en local de l’historique complet de son code sourceGit est actuellement le système de contrôle de version le plus utilisé au monde.  Il est considéré comme la norme moderne pour le développement logiciel.La plupart des opérations de Git ne nécessitent que des fichiers et ressources locaux. Généralement aucune information venant d’un autre ordinateur du réseau n’est nécessaire.",
+      "url": "/git-github/git.html#notions-fondamentales-de-git",
+      "author": "",
+      "categories": "gestion-version-git"
+    },
+"git-html#résumé": {
+      "title": "Résumé  (Git)",
+      "content"	 : "Résumé  Gestion de version distribués  12 millions d’utilisateurs  Créé par Linus Torvalds  Multiplateforme",
+      "url": "/git-github/git.html#résumé",
+      "author": "",
+      "categories": "gestion-version-git"
+    },
+"git-html#références": {
+      "title": "Références  (Git)",
+      "content"	 : "Références  Git",
+      "url": "/git-github/git.html#références",
+      "author": "",
+      "categories": "gestion-version-git"
     }
 
 
